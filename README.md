@@ -1,8 +1,5 @@
-# Atom Template
+# GHost Web Development
 
-Thank you for using this template! We hope you can use it to make your next web project a success!
-
-Atom is a free portfolio template styled with TailwindCSS. Other open source libraries were also used to provide the functionality required to make your customization quicker and faster.
 
 - [Alpine.js](https://github.com/alpinejs/alpine): A Vue-inspired jQuery alternative that offers you the reactive and declarative nature of big frameworks at a much lower cost.
 - [Alpine Magic Helpers](https://github.com/alpine-collective/alpine-magic-helpers): A collection of magic properties and helper functions for use with Alpine.js
